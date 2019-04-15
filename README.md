@@ -39,9 +39,9 @@ src:
 2019/4/15  上传至GITHUB，并对其中一些不完美的地方进行了修改（可能还有其它未知bug，求各路大神指导）
 
 
-#示例代码
+# 示例代码
 
-https://github.com/sudashannon/SL_RTE
+https://github.com/lvring/stm32f103rct_m_bsp
 
 # 感谢
 
