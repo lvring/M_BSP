@@ -41,7 +41,7 @@ src:
 
 # 示例代码
 
-https://github.com/lvring/stm32f103rct_m_bsp
+[STM32F1](https://github.com/lvring/stm32f103rct_m_bsp)
 
 # 感谢
 
