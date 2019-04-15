@@ -3,11 +3,11 @@
 
 M_BSP是个人根据需求和在实际工程使用中对裸机代码的总结和整合。
 src:
-	1\CORE
-	2\FLASH
-	3\MEMORY
-	4\PORT
-	5\SUP
+	1\CORE\r\n
+	2\FLASH\r\n
+	3\MEMORY\r\n
+	4\PORT\r\n
+	5\SUP\r\n
 	
 1、CORE：主要实现基于简单时间片的轮询调度
 2、FLASH：准备实现内部flash的KVDB功能
